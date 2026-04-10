@@ -47,7 +47,7 @@
 
 ## 贊助者 ❤️
 
-[成為贊助者](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605140) [超過 100 萬次瀏覽] — 讓你的 logo 出現在這裡，並列入 [getdesign.md](https://getdesign.md/)
+[成為贊助者](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605140) [超過 100 萬次瀏覽] — 讓你的 logo 出現在這裡，同時列入 [getdesign.md](https://getdesign.md/)
 
 ## 精選收藏
 
